@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "minhas_funcoes.h"
 
 void testaTroca(float x, float y){
     troca(&x, &y);
