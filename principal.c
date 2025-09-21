@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include "minhas_funcoes.h"
 
-int testaSoma1(int a){
-    soma1(&a);
-    return a;
+void testaTroca(float x, float y){
+    troca(&x, &y);
+    printf("%.4f %.4f", x, y);
     }
