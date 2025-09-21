@@ -1,3 +1,3 @@
 void soma1(int *a);
-void troca(int *a, int *b);
-void DDD(long long tel);
+void troca(float *a, float *b);
+void ddd(long long tel);
